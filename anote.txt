@@ -1,0 +1,20 @@
+github event
+1- trigger on
+2- workflow 
+1 - job
+    1 step 
+    2 step 
+     |
+    \ /
+2 - job
+    1 step 
+    2 step 
+server envoroment execute this jobs 
+name:
+   on:
+workflow_dispatch:
+
+
+seps can be : 
+inline /local run 
+actions uses
