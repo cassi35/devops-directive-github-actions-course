@@ -14,7 +14,14 @@ name:
    on:
 workflow_dispatch:
 
-
+-----------------------------
 seps can be : 
 inline /local run 
 actions uses
+need --> view tree
+-------------------------------
+trigging events
+trigger manualy
+push to branch
+create update / pull requrest
+cron schedule 
